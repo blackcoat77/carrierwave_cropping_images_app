@@ -22,7 +22,7 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'carrierwave'
-gem 'mini_magick'
+gem 'rmagick'
 
 
 # Use jquery as the JavaScript library
