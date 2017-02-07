@@ -6,4 +6,5 @@ Simple app for cropping avatar images in Rails using CarrierWave, MiniMagick Jcr
 * Rails version 5.0.1
 
 * gem 'carrierwave'
-* gem 'mini_magick'
+* gem 'rmagick'
+* Jcrop library
